@@ -1,2 +1,3 @@
-	name: kyueunQ
-	markdown: kramdown
+name: kyueunQ
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
